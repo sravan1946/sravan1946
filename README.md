@@ -28,9 +28,10 @@ or <a href="miniclip1956@gmail.com"><b>email</b></a> me
 
 </br>
 </br>
+<div align="center">
 <i>Random dev joke for you!</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-
+</div>
 ---
 
 
