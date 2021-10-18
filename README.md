@@ -32,9 +32,9 @@ or <a href="miniclip1956@gmail.com"><b>email</b></a> me
 <i>Random dev joke for you!</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </div>
+
 ---
-
-
+<div>
 <i>Follow me around the web:</i><br>
 
 <a href="https://www.instagram.com/sravan_krishna_c_m" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -45,4 +45,5 @@ or <a href="miniclip1956@gmail.com"><b>email</b></a> me
 </div>
 
 -----
-Credits: [ABSphreak](https://github.com/ABSphreak)
+## Spotify Playing 🎧
+![See what Ish is playing](https://spotify-recently-played-readme.vercel.app/api?user=kvxgshcxh7eatl0l5icngnw10&width=700&count=10)
