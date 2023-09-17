@@ -55,4 +55,4 @@ or <a href="miniclip1956@gmail.com"><b>email</b></a> me
 
 -----
 ## Spotify Playing 🎧
-![See what Ish is playing](https://spotify-recently-played-readme.vercel.app/api?user=kvxgshcxh7eatl0l5icngnw10&width=700&count=10)
+![See what Sravan is playing](https://spotify-recently-played-readme.vercel.app/api?user=kvxgshcxh7eatl0l5icngnw10&width=700&count=10)
