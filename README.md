@@ -32,7 +32,9 @@ or <a href="miniclip1956@gmail.com"><b>email</b></a> me
 
 <img align="center" width=500 src="https://github-profile-trophy.vercel.app/?username=sravan1946&theme=algolia&no-bg=true&no-frame=true&column=-1&rank=-C" alt="sravan1946" />
 
+<script src="https://tryhackme.com/badge/1963966"></script>
 </div>
+
 
 
 </br>
