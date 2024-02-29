@@ -34,7 +34,7 @@ or <a href="miniclip1956@gmail.com"><b>email</b></a> me
 
 </div>
 <div align="center">
-<script src="https://tryhackme.com/badge/1963966"></script>
+<script src= "https://tryhackme.com/badge/1963966" > </script>
 </div>
 
 </br>
