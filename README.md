@@ -34,7 +34,7 @@ or <a href="miniclip1956@gmail.com"><b>email</b></a> me
 
 </div>
 <div align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/sravankrishna.png")
+<a herf="https://tryhackme.com/p/sravankrishna"><img src="https://tryhackme-badges.s3.amazonaws.com/sravankrishna.png")></a>
 </div>
 
 </br>
