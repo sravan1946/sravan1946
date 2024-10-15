@@ -50,11 +50,11 @@ or <a href="miniclip1956@gmail.com"><b>email</b></a> me
 
 <a href="https://www.instagram.com/sravan_krishna_c_m" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/kvxgshcxh7eatl0l5icngnw10" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://discord.gg/kzVGwvvZRk" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-<a href="mailto:miniclip1956@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Discord"></a>
+<a href="https://discord.com/users/468386640155508737" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="mailto:miniclip1956@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 </div>
 
 -----
 ## Spotify Playing 🎧
-![See what Sravan is playing](https://spotify-recently-played-readme.vercel.app/api?user=kvxgshcxh7eatl0l5icngnw10&width=700&count=10)
+<a href="https://open.spotify.com/user/kvxgshcxh7eatl0l5icngnw10" target="_blank"><img src="https://spotify-recently-played-readme.vercel.app/api?user=kvxgshcxh7eatl0l5icngnw10&width=700&count=10" alt="Spotify recently played"> </a>
